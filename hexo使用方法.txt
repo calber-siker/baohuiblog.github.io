@@ -1,0 +1,17 @@
+
+使用git跳转到该文件夹
+
+cd D:/blog/BLOG
+
+git 提交文件
+
+提交 添加或者修改后的代码
+先查看状态：git status
+添加缓存区：git add .
+提交写注释：git commit -m “你的代码注释”
+切换主分支：git checkout master
+合并分支：git merge 分支名称
+同步远程仓库：git push
+git push origin master
+
+20、更新远程仓库代码：git pull
